@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <th>Vita-Log in</th>
+    <th>Vista-Log in</th>
     <th>Vista-Registro</th>
   </tr>
   <tr>
